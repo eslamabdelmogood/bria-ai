@@ -1,0 +1,24 @@
+{
+  "anatomy": "female_breast",
+  "clinical_context": "educational_visualization",
+  "tumor": {
+    "stage": "stage_II",
+    "location": "upper_outer_quadrant",
+    "approx_size_mm": 28
+  },
+  "view": {
+    "type": "cross_section",
+    "camera_angle": "orthographic",
+    "field_of_view": 45
+  },
+  "lighting": {
+    "style": "clinical",
+    "intensity": "soft"
+  },
+  "color_palette": "medical_neutral",
+  "rendering": {
+    "bit_depth": "16bit",
+    "style": "realistic_3d"
+  },
+  "background": "clean_white"
+}
