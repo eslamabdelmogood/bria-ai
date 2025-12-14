@@ -1,0 +1,47 @@
+{
+  "short_description": "A detailed cross-section view of a female breast, highlighting a Stage II tumor in the upper outer quadrant. The image uses a medical neutral color palette, emphasizing anatomical accuracy and clarity for clinical study.",
+  "objects": [
+    {
+      "description": "The internal structure of a female breast, meticulously rendered to show various tissue layers including glandular tissue, fatty tissue, and ducts. The cross-section reveals the intricate architecture of the mammary gland.",
+      "location": "center",
+      "relationship": "The central subject, providing the anatomical context for the tumor.",
+      "relative_size": "large within frame",
+      "shape_and_color": "Irregular ovoid shape, rendered in muted pinks, creams, and whites with subtle variations in translucency.",
+      "texture": "Smooth, with implied softness and internal fibrous structures.",
+      "appearance_details": "Highly detailed anatomical rendering, showing the lobules and ducts with precision.",
+      "orientation": "oriented vertically, revealing internal layers"
+    },
+    {
+      "description": "A malignant tumor, approximately 28mm in diameter, positioned within the upper outer quadrant of the breast. It has irregular margins indicative of its invasive nature.",
+      "location": "upper-right quadrant of the breast cross-section",
+      "relationship": "Embedded within the breast tissue, representing the primary area of focus.",
+      "relative_size": "medium within the breast structure",
+      "shape_and_color": "Irregular, lobulated mass, depicted in a slightly darker, more opaque shade of purple-grey or reddish-brown to contrast with healthy tissue.",
+      "texture": "Dense, slightly granular texture, suggesting cellular proliferation.",
+      "appearance_details": "Clearly demarcated from surrounding healthy tissue, with visible micro-calcifications or spicules extending from its edges, indicating a Stage II malignancy.",
+      "orientation": "irregularly shaped, embedded within tissue"
+    }
+  ],
+  "background_setting": "A sterile, clean white background, free of distractions, designed to highlight the anatomical subject without any contextual elements.",
+  "lighting": {
+    "conditions": "Soft, diffused clinical lighting",
+    "direction": "Evenly distributed from multiple angles, minimizing harsh shadows",
+    "shadows": "Minimal and very soft, primarily cast by internal structures to provide subtle depth."
+  },
+  "aesthetics": {
+    "composition": "Centered, orthographic projection, emphasizing clarity and scientific accuracy.",
+    "color_scheme": "Medical neutral palette, featuring muted pinks, creams, and subtle purples/reds for pathological areas, ensuring high contrast for diagnostic features.",
+    "mood_atmosphere": "Clinical, informative, precise, and serious.",
+    "preference_score": "very high",
+    "aesthetic_score": "very high"
+  },
+  "photographic_characteristics": {
+    "depth_of_field": "Deep, ensuring all elements of the cross-section are in sharp focus.",
+    "focus": "Sharp focus on all anatomical and pathological details.",
+    "camera_angle": "Orthographic (straight-on view, removing perspective distortion), with a slight tilt to reveal internal contours.",
+    "lens_focal_length": "Standard lens (e.g., 50mm equivalent) for a realistic, undistorted view."
+  },
+  "style_medium": "3D render",
+  "context": "This is a scientific visualization or medical illustration, likely intended for educational purposes, diagnostic training, or medical research, focusing on breast cancer pathology.",
+  "artistic_style": "realistic, anatomical, sterile"
+}
