@@ -172,3 +172,8 @@ Automated Production Pipelines: Replacing manual medical illustration with an au
 
 
 Intelligent Agent Flows: Building AI agents that can read any medical EHR (Electronic Health Record) and autonomously output a simplified, empathetic visual report for family members.
+
+
+
+
+
