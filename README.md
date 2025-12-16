@@ -44,6 +44,11 @@ Instead of relying on text prompts, medical intent is encoded into structured JS
 -This enables reproducible, explainable, and production-ready medical visuals.
 
 
+Determinism Advantage:
+
+In traditional T2I models, the prompt 'breast tumor' is a gamble. In my system, a JSON parameter tumor_size_mm: 28 is a command. This project proves that generative AI can be a precision instrument for medical education.
+
+
 ------------------------------
 
 
